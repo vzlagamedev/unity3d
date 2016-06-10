@@ -102,3 +102,9 @@ Temporary Items
 *.bin
 *.vs
 *.bakert
+
+
+#cerezin ejemplo
+/templates/cerezin_ejemplo/Library
+/templates/cerezin_ejemplo/ProjectSettings
+*.meta
